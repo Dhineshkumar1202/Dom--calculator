@@ -1,0 +1,15 @@
+#display {
+    height: 50px;
+    font-size: 24px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+.btn {
+    font-size: 20px;
+    height: 60px;
+}
+.card {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
